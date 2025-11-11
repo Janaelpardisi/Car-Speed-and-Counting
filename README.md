@@ -4,6 +4,7 @@ Have you ever wondered how AI can measure vehicle speed and count cars automatic
 Today, I’m sharing an advanced project that uses YOLOv8 to detect, track, and measure vehicle speeds in pixels per second, while also checking for speed violations
 
  Technologies Used:
+
 ✅ YOLOv8 for vehicle detection (Cars 🚗, Buses 🚌, Trucks 🚛)  
 ✅  OpenCV  for video processing and object tracking  
 ✅  Python  for speed calculation and data analysis  
@@ -14,7 +15,9 @@ Today, I’m sharing an advanced project that uses YOLOv8 to detect, track, and 
 📌 When a vehicle crosses Line 1, the entry time is recorded.  
 📌 When it crosses Line 2 , speed is calculated using:  
     Speed = Distance / Time  (in pixels per second).  
+
 🔹  Speed Violation Detection:  If a vehicle exceeds 60 px/s, it gets labeled as OVERSPEED in red 🚨.  
+
 🔹  Vehicle Counting: The program keeps track of the total number of vehicles that passed both lines.  
 
  Real-Time Display Features:
