@@ -493,7 +493,7 @@ in the Software without restriction...
 
 <div align="center">
 
-**Made with ❤️ and Computer Vision**
+**Made with Eng: Jana Ashraf❤️ and Computer Vision**
 
 [⬆ Back to Top](#-vehicle-speed-detection--counting-system)
 
